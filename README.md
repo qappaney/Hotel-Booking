@@ -76,4 +76,3 @@ We built several models to predict booking cancellations:
 2. Install dependencies: `pip install -r requirements.txt`
 3. Run the Jupyter notebook: `jupyter notebook Hotel_Booking_Analysis.ipynb`
 
-### File Structure
